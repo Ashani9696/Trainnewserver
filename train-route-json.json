@@ -1,0 +1,110 @@
+[
+    {
+        "route": "Colombo to Kandy",
+        "currentLocation": {
+            "latitude": 6.9271,
+            "longitude": 79.9612
+        },
+        "timestamp": "2024-08-28T00:00:00.000Z",
+        "path": [
+            {
+                "latitude": 6.9271,
+                "longitude": 79.9612,
+                "label": "Colombo"
+            },
+            {
+                "latitude": 7.2906,
+                "longitude": 80.6337,
+                "label": "Kandy"
+            }
+        ],
+        "engineHistory": [
+            {
+                "engineId": "TR001",
+                "detachedAt": null,
+                "current": true
+            }
+        ]
+    },
+    {
+        "route": "Colombo to Galle",
+        "currentLocation": {
+            "latitude": 6.9271,
+            "longitude": 79.9612
+        },
+        "timestamp": "2024-08-28T00:00:00.000Z",
+        "path": [
+            {
+                "latitude": 6.9271,
+                "longitude": 79.9612,
+                "label": "Colombo"
+            },
+            {
+                "latitude": 6.0320,
+                "longitude": 80.2170,
+                "label": "Galle"
+            }
+        ],
+        "engineHistory": [
+            {
+                "engineId": "TR002",
+                "detachedAt": null,
+                "current": true
+            }
+        ]
+    },
+    {
+        "route": "Colombo to Jaffna",
+        "currentLocation": {
+            "latitude": 6.9271,
+            "longitude": 79.9612
+        },
+        "timestamp": "2024-08-28T00:00:00.000Z",
+        "path": [
+            {
+                "latitude": 6.9271,
+                "longitude": 79.9612,
+                "label": "Colombo"
+            },
+            {
+                "latitude": 9.6615,
+                "longitude": 80.0128,
+                "label": "Jaffna"
+            }
+        ],
+        "engineHistory": [
+            {
+                "engineId": "TR003",
+                "detachedAt": null,
+                "current": true
+            }
+        ]
+    },
+    {
+        "route": "Kandy to Nuwara Eliya",
+        "currentLocation": {
+            "latitude": 7.2906,
+            "longitude": 80.6337
+        },
+        "timestamp": "2024-08-28T00:00:00.000Z",
+        "path": [
+            {
+                "latitude": 7.2906,
+                "longitude": 80.6337,
+                "label": "Kandy"
+            },
+            {
+                "latitude": 6.9658,
+                "longitude": 80.7661,
+                "label": "Nuwara Eliya"
+            }
+        ],
+        "engineHistory": [
+            {
+                "engineId": "TR004",
+                "detachedAt": null,
+                "current": true
+            }
+        ]
+    }
+]
